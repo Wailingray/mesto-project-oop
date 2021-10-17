@@ -1,4 +1,4 @@
-export const token = '981a6ce5-6623-4e6e-80d4-27c651744329';
+export const token = '0ce1a348-f8e4-4fce-80c6-e6b193b8791b';
 export const serverURL = 'https://nomoreparties.co/v1/plus-cohort-1/';
 
 export const defaultFormConfig = {
