@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YanSamoilov/mesto-project.git"
+    "url": "git+https://github.com/Wailingray/mesto-project-oop"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YanSamoilov/mesto-project/issues"
+    "url": "https://github.com/Wailingray/mesto-project-oop/issues"
   },
-  "homepage": "https://github.com/YanSamoilov/mesto-project#readme",
+  "homepage": "https://wailingray.github.io/mesto-project-oop",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
