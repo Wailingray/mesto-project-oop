@@ -1,5 +1,5 @@
 ![](./images/Vector.svg)
-# Учебный проект "Место"
+# [Учебный проект "Место"](https://wailingray.github.io/mesto-project-oop/)
 --------------
 ## Над проектом в этом месяце работали:
 Глен Зангеев - zangeew2012@yandex.ru - https://github.com/eilerglen;
